@@ -20,7 +20,7 @@ For the past two summers, I've completed internships where I worked on backend s
 - **Club Web Platform**: Contributed to the development of a club platform, allowing members to connect and participate in events. This experience helped me learn about building responsive, user-centered web applications.
 
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ar2436&show_icons=true&theme=dark)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=alexruah&show_icons=true&theme=dark)
 
 ## 📫 Let's Connect!
 - [LinkedIn](https://linkedin.com/in/yourprofile)
