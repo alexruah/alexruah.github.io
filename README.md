@@ -14,9 +14,22 @@ For the past two summers, I've completed internships where I worked on backend s
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?logo=postgresql&logoColor=white)
 
 ## 🔥 Key Projects
-- **Classmate Matcher**: Developed a program using Amazon Bedrock to group students with shared interests together. [Repo Link](https://github.com/alexruah/classmate_matcher)
-- **Mock Social Media**: Created a mock social media website that allows users to post and interact with other users' posts. [Repo Link](https://github.com/alexruah/Mock-Social-Media)
-- **Club Web Platform**: Contributed to the development of a club platform, allowing members to connect and participate in events. This experience helped me learn about building responsive, user-centered web applications.
+### Classmate Matcher
+Developed a program using Amazon Bedrock to group students with shared interests together.
+- **Technologies Used**: Python, Amazon Bedrock, AWS Lambda
+- **Challenges**: Implementing efficient matching algorithms and ensuring scalability.
+- **Learnings**: Gained experience in cloud services and microservices architecture.
+- [Repo Link](https://github.com/alexruah/classmate_matcher)
+![Classmate Matcher Screenshot](https://github.com/alexruah/classmate_matcher/screenshot.png)
+
+### Mock Social Media
+Created a mock social media website that allows users to post and interact with other users' posts.
+- **Technologies Used**: JavaScript, Node.js, Express, MongoDB
+- **Challenges**: Designing an intuitive user interface and handling real-time updates.
+- **Learnings**: Improved skills in full-stack development and real-time web applications.
+- [Repo Link](https://github.com/alexruah/Mock-Social-Media)
+![Mock Social Media Screenshot](https://github.com/alexruah/Mock-Social-Media/screenshot.png)
+
 
 ## 📫 Let's Connect!
 - [LinkedIn](https://linkedin.com/in/alexruah)
