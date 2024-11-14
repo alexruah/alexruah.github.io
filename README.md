@@ -7,7 +7,7 @@ For the past two summers, I've completed internships where I worked on backend s
 
 ## 🛠️ Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-blue?logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-green?logo=c++&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-red?logo=java&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazon-aws&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=black)
