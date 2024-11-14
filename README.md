@@ -16,20 +16,14 @@ For the past two summers, I've completed internships where I worked on backend s
 ## 🔥 Key Projects
 ### Classmate Matcher
 Developed a program using Amazon Bedrock to group students with shared interests together.
-- **Technologies Used**: Python, Amazon Bedrock, AWS Lambda
+- **Technologies Used**: Python, Amazon Bedrock, FastAPI, Postgresql
 - **Challenges**: Implementing efficient matching algorithms and ensuring scalability.
-- **Learnings**: Gained experience in cloud services and microservices architecture.
+- **Learnings**: Gained experience in generative AI, cloud computing, and creating APIs.
 - [Repo Link](https://github.com/alexruah/classmate_matcher)
-![Classmate Matcher Screenshot](https://github.com/alexruah/classmate_matcher/screenshot.png)
 
 ### Mock Social Media
 Created a mock social media website that allows users to post and interact with other users' posts.
-- **Technologies Used**: JavaScript, Node.js, Express, MongoDB
+- **Technologies Used**: JavaScript, Node.js, Express, MongoDB, GraphQL
 - **Challenges**: Designing an intuitive user interface and handling real-time updates.
 - **Learnings**: Improved skills in full-stack development and real-time web applications.
 - [Repo Link](https://github.com/alexruah/Mock-Social-Media)
-![Mock Social Media Screenshot](https://github.com/alexruah/Mock-Social-Media/screenshot.png)
-
-
-## 📫 Let's Connect!
-- [LinkedIn](https://linkedin.com/in/alexruah)
