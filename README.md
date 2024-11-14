@@ -14,13 +14,9 @@ For the past two summers, I've completed internships where I worked on backend s
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?logo=postgresql&logoColor=white)
 
 ## 🔥 Key Projects
-- **Maze Navigator**: Implemented a maze game using algorithms like BFS and DFS to optimize player navigation. [Repo Link](https://github.com/ar2436/MazeNavigator)
-- **To-Do List App**: Built a full-stack task management app with a MongoDB backend. [Repo Link](https://github.com/ar2436/TodoApp)
+- **Classmate Matcher**: Developed a program using Amazon Bedrock to group students with shared interests together. [Repo Link](https://github.com/alexruah/classmate_matcher)
+- **Mock Social Media**: Created a mock social media website that allows users to post and interact with other users' posts. [Repo Link](https://github.com/alexruah/Mock-Social-Media)
 - **Club Web Platform**: Contributed to the development of a club platform, allowing members to connect and participate in events. This experience helped me learn about building responsive, user-centered web applications.
 
-## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=alexruah&show_icons=true&theme=dark)
-
 ## 📫 Let's Connect!
-- [LinkedIn](https://linkedin.com/in/yourprofile)
-- [Personal Website](https://yourwebsite.com)
+- [LinkedIn](https://linkedin.com/in/alexruah)
