@@ -23,3 +23,8 @@ Developed a program using Amazon Bedrock to group students with shared interests
 Created a mock social media website that allows users to post and interact with other users' posts.
 - **Technologies Used**: JavaScript, Node.js, Express, MongoDB, GraphQL
 - [Repo Link](https://github.com/alexruah/Mock-Social-Media)
+
+### Student Question and Answer Site
+Developed the back end for a website, where students can post questions to a class board, and answer other students questions
+- **Technologies Used**: Python, FastAPI, PostgreSQL, React, Tailwind
+![Project Screenshot](images/answer_project.png)
