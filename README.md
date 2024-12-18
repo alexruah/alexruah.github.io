@@ -27,4 +27,5 @@ Created a mock social media website that allows users to post and interact with 
 ### Student Question and Answer Site
 Developed the back end for a website, where students can post questions to a class board, and answer other students questions
 - **Technologies Used**: Python, FastAPI, PostgreSQL, React, Tailwind
+- [Repo Link]([https://github.com/alexruah/Mock-Social-Media](https://github.com/danielgeorge922/CEN3031_PROJECT))
 ![Project Screenshot](images/answer_project.png)
